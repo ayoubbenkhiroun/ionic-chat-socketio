@@ -1,7 +1,7 @@
 # ionic-chat-socketio
 A simple Ionic chat using Socket.io
 
-Supported Platforms
+Supported Platforms/n
 Android
 Browser
 iOS
