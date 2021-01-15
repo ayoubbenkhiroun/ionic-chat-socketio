@@ -1,7 +1,0 @@
-{
-  "name": "ionicChatSocket",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
